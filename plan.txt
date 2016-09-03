@@ -1,0 +1,17 @@
+NutriLog
+An application for logging food and nutrition
+
+Features
+1. View nutritional information for a range of foods
+2. Create / Edit food nutritional information
+3. Create an user profile (Name, Age, Weight)
+4. Log food eaten (Easily copy from previous days)
+5. View nutritional balance of food eaten (over day / week / month)
+6. Autocomplete on food logging
+7. Log weight
+8. Create diet plans
+
+
+8. Create exercises
+9. Log exercise
+
